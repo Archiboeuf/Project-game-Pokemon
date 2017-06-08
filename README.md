@@ -5,4 +5,4 @@ Creation of a game of battles of Pokémons with Python based on the game from Ni
 
 The game is in french.
 
-How to play : Execute the entire code and type "commencer_partie()" then you only have to type numbers to take the decisions which are displayed on the screen.
+How to play : Execute the entire code and type "commencer_partie()" then you only have to type numbers and press enter to take the decisions which are displayed on the screen.
